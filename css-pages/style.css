@@ -1,0 +1,32 @@
+greating-message,
+.alert-text {
+    color: purple;
+  }
+
+.alert-text {
+    background-color: lightcoral;
+  }
+
+* {
+  font-family: "calibri", "Times New Roman", sans-serif;
+  font-size: 22px;
+  font-weight: 100;
+  text-align: center;
+}
+
+#bye-message {
+  background-color: pink
+}
+
+.greating-message.alert-text {
+  background-color: cyan;
+}
+
+.parent .child {
+  color: aquamarine;
+}
+
+img {
+  height: 400px;
+  width: 200px;
+}
