@@ -1,0 +1,36 @@
+* {
+    background-color: lightcyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title {
+    font-size: 45px;
+    color: cadetblue;
+    text-align: center;
+}
+
+.options {
+    list-style-image: url("./images/cyan-arrow.png");
+    font-size: 24px;
+}
+
+.options li {
+    margin-bottom: 10px;
+
+}
+
+.options a {
+    text-decoration: none;
+    color: rgb(0, 140, 179);
+}
+
+.imgcontainer {
+    position: relative;
+    width: 1000;
+    height: 400px;
+}
+.imgcontainer img {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
